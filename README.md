@@ -1,0 +1,2 @@
+# Data-Analysis-and-Visualisation-on-Soil-Pollution-Diseases
+This project explores the relationship between soil pollution and disease patterns using Python. It covers data cleaning, handling missing values, outlier detection with the IQR method, Z-score normalization, and exploratory data analysis using histograms, bar charts, scatter plots, line plots, and heatmaps to uncover trends and correlations.
